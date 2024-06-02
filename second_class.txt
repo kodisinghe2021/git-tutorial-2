@@ -3,3 +3,5 @@ this is added afeter second commit
 this line after third commit
 
 this line after remove
+=======
+this line after commit "to new"
